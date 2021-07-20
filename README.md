@@ -28,6 +28,7 @@ Negative Direction         |  Positive Direction
 
 ## Rigidity
 ![Alt text](example_images/rigidity.png?raw=true)
+![Alt text](example_images/rigidity_negative.png?raw=true)
 Negative Direction         |  Positive Direction
 :-------------------------:|:-------------------------:
 ![Alt text](example_images/rigidity_negative.png?raw=true)  |  ![Alt text](example_images/rigidity_positive.png?raw=true)
