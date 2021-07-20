@@ -15,6 +15,7 @@ https://colab.research.google.com/github/bnhoule/stylegan2-logo-tool/blob/main/F
 
 Below show examples of isolating one feature and generating logos along the negative (right) and positive (left) directions.
 
-Solarized dark             |  Solarized Ocean
+Negative Direction            |  Positive Direction
+Complexity
 :-------------------------:|:-------------------------:
 ![Alt text](example_images/fill_negative.png?raw=true)  |  ![Alt text](example_images/fill_positive.png?raw=true)
