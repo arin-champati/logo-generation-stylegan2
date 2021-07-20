@@ -12,7 +12,5 @@ Click on the Colab link below to give our tool a try!
 https://colab.research.google.com/github/bnhoule/stylegan2-logo-tool/blob/main/FinalTool.ipynb
 
 Contact us if you have any feedback or questions:
-
-Arin Champati: champati@princeton.edu
-
-Brendan Houle: bhoule@princeton.edu
+- Arin Champati: champati@princeton.edu
+- Brendan Houle: bhoule@princeton.edu
