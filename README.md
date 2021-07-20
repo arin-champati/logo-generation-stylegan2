@@ -13,6 +13,21 @@ Click on the Colab link below to give our tool a try!
 
 https://colab.research.google.com/github/bnhoule/stylegan2-logo-tool/blob/main/FinalTool.ipynb
 
+## Tool Functionality
+### Generated Logos
+![Alt text](example_images/generated.png?raw=true)
+
+### Index of Similar Logos
+![Alt text](example_images/similar_logos.png?raw=true)
+
+### Shape and Color Mixing
+![Alt text](example_images/interpolation.png?raw=true)
+
+### Control Features
+![Alt text](example_images/tool_controls.png?raw=true)
+
+
+## Feature Directions
 Below show examples of isolating one feature and generating logos along each direction.
 
 ### Fill
