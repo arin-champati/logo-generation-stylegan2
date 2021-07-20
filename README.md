@@ -21,15 +21,15 @@ Negative Direction         |  Positive Direction
 ![Alt text](example_images/fill_negative.png?raw=true)  |  ![Alt text](example_images/fill_positive.png?raw=true)
 
 ## Complexity
+![Alt text](example_images/complexity.png?raw=true)
 Negative Direction         |  Positive Direction
 :-------------------------:|:-------------------------:
-![Alt text](example_images/complexity.png?raw=true)
 ![Alt text](example_images/complexity_negative.png?raw=true)  |  ![Alt text](example_images/complexity_positive.png?raw=true)
 
 ## Rigidity
+![Alt text](example_images/rigidity.png?raw=true)
 Negative Direction         |  Positive Direction
 :-------------------------:|:-------------------------:
-![Alt text](example_images/rigidity.png?raw=true)
 ![Alt text](example_images/rigidity_negative.png?raw=true)  |  ![Alt text](example_images/rigidity_positive.png?raw=true)
 
 
