@@ -12,6 +12,6 @@ I, Arin Champati, specifically focused on creating the model and features for lo
 Click on the Colab link below to give our tool a try!
 
 https://colab.research.google.com/github/bnhoule/stylegan2-logo-tool/blob/main/FinalTool.ipynb
-
+Positive      Negative
 ![Alt text](example_images/fill_positive.png?raw=true)
 ![Alt text](example_images/fill_negative.png?raw=true)
