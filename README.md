@@ -18,7 +18,12 @@ Below show examples of isolating one feature and generating logos along the nega
 ## Fill
 Negative Direction         |  Positive Direction
 :-------------------------:|:-------------------------:
-![Alt text](example_images/size_negative.png?raw=true)  |  ![Alt text](example_images/size_positive.png?raw=true)
+![Alt text](example_images/fill_negative.png?raw=true)  |  ![Alt text](example_images/fill_positive.png?raw=true)
+
+## Rigidity
+Negative Direction         |  Positive Direction
+:-------------------------:|:-------------------------:
+![Alt text](example_images/rigidity_negative.png?raw=true)  |  ![Alt text](example_images/rigidity_positive.png?raw=true)
 
 ## Complexity
 Negative Direction         |  Positive Direction
