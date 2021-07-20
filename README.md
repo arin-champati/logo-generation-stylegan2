@@ -13,7 +13,7 @@ Click on the Colab link below to give our tool a try!
 
 https://colab.research.google.com/github/bnhoule/stylegan2-logo-tool/blob/main/FinalTool.ipynb
 
-Below show examples of isolating one feature and generating logos along the negative (right) and positive (left) directions.
+Below show examples of isolating one feature and generating logos along each direction.
 
 ## Fill
 Negative Direction         |  Positive Direction
