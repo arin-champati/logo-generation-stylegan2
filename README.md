@@ -16,10 +16,12 @@ https://colab.research.google.com/github/bnhoule/stylegan2-logo-tool/blob/main/F
 ## Tool Functionality
 ### Generated Logos
 A sample of generated logos
+
 ![Alt text](example_images/generated.png?raw=true)
 
 ### Index of Similar Logos
 Given a logo (left column), color, shape, or both can be varied
+
 ![Alt text](example_images/similar_logos.png?raw=true)
 
 ### Shape and Color Mixing
