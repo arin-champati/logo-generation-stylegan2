@@ -17,7 +17,7 @@ https://colab.research.google.com/github/arin-champati/stylegan2-logo-tool/blob/
 ### Projection
 Examples of mixing styles of existing logos.
 
-![Alt text](images/existing_interploations.png?raw=true)
+![Alt text](example_images/existing_interploations.png?raw=true)
 
 ### Generated Logos
 A sample of generated logos.
