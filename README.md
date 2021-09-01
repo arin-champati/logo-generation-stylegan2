@@ -14,6 +14,11 @@ Click on the Colab link below to give our tool a try!
 https://colab.research.google.com/github/arin-champati/stylegan2-logo-tool/blob/main/LogoGenerationPlayground.ipynb
 
 ## Tool Functionality
+### Projection
+Examples of mixing styles of existing logos.
+
+![Alt text](images/existing_interploations.png?raw=true)
+
 ### Generated Logos
 A sample of generated logos.
 
